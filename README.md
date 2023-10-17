@@ -1,4 +1,4 @@
-<summary>🔍 ### [OLD] IDA Pattern Scanner for Arceus X Offsets (V1) 🔍</summary>
+### <summary>🔍 [OLD] IDA Pattern Scanner for Arceus X Offsets (V1) 🔍</summary>
 
 ---
 
